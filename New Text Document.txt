@@ -203,7 +203,10 @@ export default function App() {
 
 /*
 TO FIX:
-  â€¢ Body Elements scroll through radius
-  â€¢ Scrollable body elements abstracted by Header 'FFFFFE' background
-  â€¢ Horizontal ScrollView for 'Description' Touchables
+  • Body Elements scroll through radius
+  • Scrollable body elements abstracted by Header 'FFFFFE' background
+  • Horizontal ScrollView for 'Description' Touchables
 */
+
+
+https://expo.dev/accounts/zachyno/projects/Virtual_Class/builds/38ca9cdf-9669-44a9-aec9-0f1c7119a3de
