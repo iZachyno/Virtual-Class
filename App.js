@@ -172,7 +172,7 @@ export default function App() {
               <Text style = {globalStyle.Grades}>12</Text>
             </ImageBackground>
           </TouchableOpacity>
-        </View></ScrollView>` `
+        </View></ScrollView>
       </View>
       <ImageBackground source={require('./assets/Footer.png')} style = {globalStyle.Footer}>
         <TouchableOpacity style = {{flex: 1, margin: 13, justifyContent: 'center', alignItems: 'center'}}>
